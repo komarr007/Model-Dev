@@ -1,0 +1,107 @@
+2023-06-07 17:17:21,645 [15648] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2023-06-07 17:17:32,584 [15648] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2023-06-07 17:17:44,389 [5740] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2023-06-07 17:19:00,073 [5740] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-06-07 17:19:00,075 [5740] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-06-07 17:19:00,076 [5740] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-06-07 17:19:00,078 [5740] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-06-07 17:19:00,079 [5740] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-06-07 17:19:00,080 [5740] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-06-07 17:19:00,587 [5740] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2023-06-07 17:19:00,588 [5740] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {'d3-array': 'https://d3js.org/d3-array.v2.min'}, 'shim': {}}
+2023-06-07 17:19:00,590 [5740] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {'moment': 'https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.8.0/moment', 'chartjs': 'https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart'}, 'shim': {'chartjs': {'deps': ['moment']}}}
+2023-06-07 17:19:00,590 [5740] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': OrderedDict([('datatables.net', 'https://cdn.datatables.net/1.10.18/js/jquery.dataTables'), ('datatables.net-buttons', 'https://cdn.datatables.net/buttons/1.5.6/js/dataTables.buttons.min'), ('jszip', 'https://cdnjs.cloudflare.com/ajax/libs/jszip/2.5.0/jszip.min'), ('buttons.colvis', 'https://cdn.datatables.net/buttons/1.5.6/js/buttons.colVis.min'), ('buttons.flash', 'https://cdn.datatables.net/buttons/1.5.6/js/buttons.flash.min'), ('buttons.html5', 'https://cdn.datatables.net/buttons/1.5.6/js/buttons.html5.min'), ('buttons.print', 'https://cdn.datatables.net/buttons/1.5.6/js/buttons.print.min'), ('pdfmake', 'https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.36/pdfmake.min'), ('vfsfonts', 'https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.36/vfs_fonts'), ('datatables.responsive', 'https://cdn.datatables.net/responsive/2.2.2/js/dataTables.responsive.min'), ('datatables.scroller', 'https://cdn.datatables.net/scroller/2.0.0/js/dataTables.scroller.min'), ('datatables.select', 'https://cdn.datatables.net/select/1.3.0/js/dataTables.select.min')]), 'shim': OrderedDict([('datatables.net', {'exports': '$.fn.dataTable'}), ('datatables.net-buttons', {'deps': ['datatables.net']}), ('buttons.colvis', {'deps': ['jszip', 'datatables.net-buttons']}), ('buttons.flash', {'deps': ['jszip', 'datatables.net-buttons']}), ('buttons.html5', {'deps': ['jszip', 'datatables.net-buttons']}), ('buttons.print', {'deps': ['jszip', 'datatables.net-buttons']}), ('pdfmake', {'deps': ['datatables.net']}), ('vfsfonts', {'deps': ['datatables.net']})])}
+2023-06-07 17:24:42,484 [18516] DEBUG    matplotlib.pyplot:296: [JupyterRequire] Loaded backend module://matplotlib_inline.backend_inline version unknown.
+2023-06-07 17:24:42,486 [18516] DEBUG    matplotlib.pyplot:296: [JupyterRequire] Loaded backend module://matplotlib_inline.backend_inline version unknown.
+2023-06-07 17:24:44,035 [18516] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2023-06-07 17:25:45,598 [18516] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2023-06-07 17:25:55,725 [18516] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-06-07 17:25:55,725 [18516] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-06-07 17:25:55,726 [18516] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-06-07 17:25:55,730 [18516] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-06-07 17:25:55,731 [18516] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-06-07 17:25:55,732 [18516] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-06-07 17:25:56,237 [18516] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2023-06-07 17:25:56,239 [18516] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {'d3-array': 'https://d3js.org/d3-array.v2.min'}, 'shim': {}}
+2023-06-07 17:25:56,240 [18516] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {'moment': 'https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.8.0/moment', 'chartjs': 'https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart'}, 'shim': {'chartjs': {'deps': ['moment']}}}
+2023-06-07 17:25:56,240 [18516] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': OrderedDict([('datatables.net', 'https://cdn.datatables.net/1.10.18/js/jquery.dataTables'), ('datatables.net-buttons', 'https://cdn.datatables.net/buttons/1.5.6/js/dataTables.buttons.min'), ('jszip', 'https://cdnjs.cloudflare.com/ajax/libs/jszip/2.5.0/jszip.min'), ('buttons.colvis', 'https://cdn.datatables.net/buttons/1.5.6/js/buttons.colVis.min'), ('buttons.flash', 'https://cdn.datatables.net/buttons/1.5.6/js/buttons.flash.min'), ('buttons.html5', 'https://cdn.datatables.net/buttons/1.5.6/js/buttons.html5.min'), ('buttons.print', 'https://cdn.datatables.net/buttons/1.5.6/js/buttons.print.min'), ('pdfmake', 'https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.36/pdfmake.min'), ('vfsfonts', 'https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.36/vfs_fonts'), ('datatables.responsive', 'https://cdn.datatables.net/responsive/2.2.2/js/dataTables.responsive.min'), ('datatables.scroller', 'https://cdn.datatables.net/scroller/2.0.0/js/dataTables.scroller.min'), ('datatables.select', 'https://cdn.datatables.net/select/1.3.0/js/dataTables.select.min')]), 'shim': OrderedDict([('datatables.net', {'exports': '$.fn.dataTable'}), ('datatables.net-buttons', {'deps': ['datatables.net']}), ('buttons.colvis', {'deps': ['jszip', 'datatables.net-buttons']}), ('buttons.flash', {'deps': ['jszip', 'datatables.net-buttons']}), ('buttons.html5', {'deps': ['jszip', 'datatables.net-buttons']}), ('buttons.print', {'deps': ['jszip', 'datatables.net-buttons']}), ('pdfmake', {'deps': ['datatables.net']}), ('vfsfonts', {'deps': ['datatables.net']})])}
+2023-06-07 17:30:19,499 [11912] DEBUG    matplotlib.pyplot:296: [JupyterRequire] Loaded backend module://matplotlib_inline.backend_inline version unknown.
+2023-06-07 17:30:19,501 [11912] DEBUG    matplotlib.pyplot:296: [JupyterRequire] Loaded backend module://matplotlib_inline.backend_inline version unknown.
+2023-06-07 17:30:23,078 [11912] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2023-06-07 17:30:31,360 [11912] DEBUG    matplotlib.pyplot:296: [JupyterRequire] Loaded backend module://matplotlib_inline.backend_inline version unknown.
+2023-06-07 17:30:31,838 [11912] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2023-06-07 17:30:42,848 [11912] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-06-07 17:30:42,849 [11912] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-06-07 17:30:42,849 [11912] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-06-07 17:30:42,852 [11912] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-06-07 17:30:42,853 [11912] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-06-07 17:30:42,854 [11912] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-06-07 17:30:43,369 [11912] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2023-06-07 17:30:43,370 [11912] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {'d3-array': 'https://d3js.org/d3-array.v2.min'}, 'shim': {}}
+2023-06-07 17:30:43,370 [11912] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {'moment': 'https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.8.0/moment', 'chartjs': 'https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart'}, 'shim': {'chartjs': {'deps': ['moment']}}}
+2023-06-07 17:30:43,371 [11912] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': OrderedDict([('datatables.net', 'https://cdn.datatables.net/1.10.18/js/jquery.dataTables'), ('datatables.net-buttons', 'https://cdn.datatables.net/buttons/1.5.6/js/dataTables.buttons.min'), ('jszip', 'https://cdnjs.cloudflare.com/ajax/libs/jszip/2.5.0/jszip.min'), ('buttons.colvis', 'https://cdn.datatables.net/buttons/1.5.6/js/buttons.colVis.min'), ('buttons.flash', 'https://cdn.datatables.net/buttons/1.5.6/js/buttons.flash.min'), ('buttons.html5', 'https://cdn.datatables.net/buttons/1.5.6/js/buttons.html5.min'), ('buttons.print', 'https://cdn.datatables.net/buttons/1.5.6/js/buttons.print.min'), ('pdfmake', 'https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.36/pdfmake.min'), ('vfsfonts', 'https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.36/vfs_fonts'), ('datatables.responsive', 'https://cdn.datatables.net/responsive/2.2.2/js/dataTables.responsive.min'), ('datatables.scroller', 'https://cdn.datatables.net/scroller/2.0.0/js/dataTables.scroller.min'), ('datatables.select', 'https://cdn.datatables.net/select/1.3.0/js/dataTables.select.min')]), 'shim': OrderedDict([('datatables.net', {'exports': '$.fn.dataTable'}), ('datatables.net-buttons', {'deps': ['datatables.net']}), ('buttons.colvis', {'deps': ['jszip', 'datatables.net-buttons']}), ('buttons.flash', {'deps': ['jszip', 'datatables.net-buttons']}), ('buttons.html5', {'deps': ['jszip', 'datatables.net-buttons']}), ('buttons.print', {'deps': ['jszip', 'datatables.net-buttons']}), ('pdfmake', {'deps': ['datatables.net']}), ('vfsfonts', {'deps': ['datatables.net']})])}
+2023-06-07 17:33:41,692 [20248] DEBUG    matplotlib.pyplot:296: [JupyterRequire] Loaded backend module://matplotlib_inline.backend_inline version unknown.
+2023-06-07 17:33:41,694 [20248] DEBUG    matplotlib.pyplot:296: [JupyterRequire] Loaded backend module://matplotlib_inline.backend_inline version unknown.
+2023-06-07 17:33:41,730 [20248] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2023-06-07 17:34:26,415 [20248] DEBUG    jupyter_nbutils.utils:120: [JupyterRequire] Jupyter nbextension version: 6.5.4
+2023-06-07 17:34:26,420 [20248] DEBUG    jupyter_nbutils.utils:145: [JupyterRequire] Installing extension: jupyter_require
+2023-06-07 17:34:27,698 [20248] INFO     jupyter_nbutils.utils:149: [JupyterRequire] Jupyter Require found itself running outside of Jupyter.
+Traceback (most recent call last):
+  File "C:\Users\Mario\anaconda3\envs\gputensorflow\lib\runpy.py", line 193, in _run_module_as_main
+    "__main__", mod_spec)
+  File "C:\Users\Mario\anaconda3\envs\gputensorflow\lib\runpy.py", line 85, in _run_code
+    exec(code, run_globals)
+  File "C:\Users\Mario\anaconda3\envs\gputensorflow\Scripts\jupyter-nbextension.EXE\__main__.py", line 7, in <module>
+  File "C:\Users\Mario\anaconda3\envs\gputensorflow\lib\site-packages\jupyter_core\application.py", line 269, in launch_instance
+    return super().launch_instance(argv=argv, **kwargs)
+  File "C:\Users\Mario\anaconda3\envs\gputensorflow\lib\site-packages\traitlets\config\application.py", line 992, in launch_instance
+    app.start()
+  File "C:\Users\Mario\anaconda3\envs\gputensorflow\lib\site-packages\notebook\nbextensions.py", line 972, in start
+    super().start()
+  File "C:\Users\Mario\anaconda3\envs\gputensorflow\lib\site-packages\jupyter_core\application.py", line 258, in start
+    self.subapp.start()
+  File "C:\Users\Mario\anaconda3\envs\gputensorflow\lib\site-packages\notebook\nbextensions.py", line 702, in start
+    self.install_extensions()
+  File "C:\Users\Mario\anaconda3\envs\gputensorflow\lib\site-packages\notebook\nbextensions.py", line 683, in install_extensions
+    **kwargs
+  File "C:\Users\Mario\anaconda3\envs\gputensorflow\lib\site-packages\notebook\nbextensions.py", line 203, in install_nbextension_python
+    m, nbexts = _get_nbextension_metadata(module)
+  File "C:\Users\Mario\anaconda3\envs\gputensorflow\lib\site-packages\notebook\nbextensions.py", line 1107, in _get_nbextension_metadata
+    m = import_item(module)
+  File "C:\Users\Mario\anaconda3\envs\gputensorflow\lib\site-packages\traitlets\utils\importstring.py", line 38, in import_item
+    return __import__(parts[0])
+  File "C:\Users\Mario\anaconda3\envs\gputensorflow\lib\site-packages\jupyter_require\__init__.py", line 34, in <module>
+    from .notebook import link_css
+  File "C:\Users\Mario\anaconda3\envs\gputensorflow\lib\site-packages\jupyter_require\notebook.py", line 30, in <module>
+    from .core import execute_with_requirements
+  File "C:\Users\Mario\anaconda3\envs\gputensorflow\lib\site-packages\jupyter_require\core.py", line 279, in <module>
+    require = RequireJS()
+  File "C:\Users\Mario\anaconda3\envs\gputensorflow\lib\site-packages\jupyter_require\core.py", line 90, in __new__
+    raise EnvironmentError(msg)
+OSError: Jupyter Require found itself running outside of Jupyter.
+
+2023-06-07 17:34:27,699 [20248] DEBUG    jupyter_nbutils.utils:153: [JupyterRequire] Success.
+2023-06-07 17:34:51,137 [20248] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2023-06-07 17:35:06,618 [20248] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-06-07 17:35:06,618 [20248] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-06-07 17:35:06,618 [20248] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-06-07 17:35:06,621 [20248] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-06-07 17:35:06,622 [20248] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-06-07 17:35:06,623 [20248] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-06-07 17:35:07,134 [20248] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2023-06-07 17:35:07,135 [20248] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {'d3-array': 'https://d3js.org/d3-array.v2.min'}, 'shim': {}}
+2023-06-07 17:35:07,135 [20248] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {'moment': 'https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.8.0/moment', 'chartjs': 'https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart'}, 'shim': {'chartjs': {'deps': ['moment']}}}
+2023-06-07 17:35:07,136 [20248] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': OrderedDict([('datatables.net', 'https://cdn.datatables.net/1.10.18/js/jquery.dataTables'), ('datatables.net-buttons', 'https://cdn.datatables.net/buttons/1.5.6/js/dataTables.buttons.min'), ('jszip', 'https://cdnjs.cloudflare.com/ajax/libs/jszip/2.5.0/jszip.min'), ('buttons.colvis', 'https://cdn.datatables.net/buttons/1.5.6/js/buttons.colVis.min'), ('buttons.flash', 'https://cdn.datatables.net/buttons/1.5.6/js/buttons.flash.min'), ('buttons.html5', 'https://cdn.datatables.net/buttons/1.5.6/js/buttons.html5.min'), ('buttons.print', 'https://cdn.datatables.net/buttons/1.5.6/js/buttons.print.min'), ('pdfmake', 'https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.36/pdfmake.min'), ('vfsfonts', 'https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.36/vfs_fonts'), ('datatables.responsive', 'https://cdn.datatables.net/responsive/2.2.2/js/dataTables.responsive.min'), ('datatables.scroller', 'https://cdn.datatables.net/scroller/2.0.0/js/dataTables.scroller.min'), ('datatables.select', 'https://cdn.datatables.net/select/1.3.0/js/dataTables.select.min')]), 'shim': OrderedDict([('datatables.net', {'exports': '$.fn.dataTable'}), ('datatables.net-buttons', {'deps': ['datatables.net']}), ('buttons.colvis', {'deps': ['jszip', 'datatables.net-buttons']}), ('buttons.flash', {'deps': ['jszip', 'datatables.net-buttons']}), ('buttons.html5', {'deps': ['jszip', 'datatables.net-buttons']}), ('buttons.print', {'deps': ['jszip', 'datatables.net-buttons']}), ('pdfmake', {'deps': ['datatables.net']}), ('vfsfonts', {'deps': ['datatables.net']})])}
+2023-06-07 17:40:13,486 [5244] DEBUG    matplotlib.pyplot:296: [JupyterRequire] Loaded backend module://matplotlib_inline.backend_inline version unknown.
+2023-06-07 17:40:13,489 [5244] DEBUG    matplotlib.pyplot:296: [JupyterRequire] Loaded backend module://matplotlib_inline.backend_inline version unknown.
+2023-06-07 17:40:13,532 [5244] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-06-07 17:40:13,533 [5244] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-06-07 17:40:13,533 [5244] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-06-07 17:40:13,534 [5244] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-06-07 17:40:13,535 [5244] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-06-07 17:40:13,535 [5244] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-06-07 17:40:14,041 [5244] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {'d3': 'https://d3js.org/d3.v5.min'}, 'shim': {}}
+2023-06-07 17:40:14,042 [5244] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {'d3-array': 'https://d3js.org/d3-array.v2.min'}, 'shim': {}}
+2023-06-07 17:40:14,042 [5244] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {'moment': 'https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.8.0/moment', 'chartjs': 'https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart'}, 'shim': {'chartjs': {'deps': ['moment']}}}
+2023-06-07 17:40:14,043 [5244] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': OrderedDict([('datatables.net', 'https://cdn.datatables.net/1.10.18/js/jquery.dataTables'), ('datatables.net-buttons', 'https://cdn.datatables.net/buttons/1.5.6/js/dataTables.buttons.min'), ('jszip', 'https://cdnjs.cloudflare.com/ajax/libs/jszip/2.5.0/jszip.min'), ('buttons.colvis', 'https://cdn.datatables.net/buttons/1.5.6/js/buttons.colVis.min'), ('buttons.flash', 'https://cdn.datatables.net/buttons/1.5.6/js/buttons.flash.min'), ('buttons.html5', 'https://cdn.datatables.net/buttons/1.5.6/js/buttons.html5.min'), ('buttons.print', 'https://cdn.datatables.net/buttons/1.5.6/js/buttons.print.min'), ('pdfmake', 'https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.36/pdfmake.min'), ('vfsfonts', 'https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.36/vfs_fonts'), ('datatables.responsive', 'https://cdn.datatables.net/responsive/2.2.2/js/dataTables.responsive.min'), ('datatables.scroller', 'https://cdn.datatables.net/scroller/2.0.0/js/dataTables.scroller.min'), ('datatables.select', 'https://cdn.datatables.net/select/1.3.0/js/dataTables.select.min')]), 'shim': OrderedDict([('datatables.net', {'exports': '$.fn.dataTable'}), ('datatables.net-buttons', {'deps': ['datatables.net']}), ('buttons.colvis', {'deps': ['jszip', 'datatables.net-buttons']}), ('buttons.flash', {'deps': ['jszip', 'datatables.net-buttons']}), ('buttons.html5', {'deps': ['jszip', 'datatables.net-buttons']}), ('buttons.print', {'deps': ['jszip', 'datatables.net-buttons']}), ('pdfmake', {'deps': ['datatables.net']}), ('vfsfonts', {'deps': ['datatables.net']})])}
+2023-06-07 17:40:48,733 [5244] DEBUG    matplotlib.pyplot:296: [JupyterRequire] Loaded backend module://matplotlib_inline.backend_inline version unknown.
